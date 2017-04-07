@@ -13,3 +13,7 @@
 为了减少每个人的问卷工作量有保持不同block之间的数量均匀，所以设置了随机跳转
 
 first_page.html用来区分手机端，电脑端，pad端
+
+travel_mode_1.html——电脑端，pad端
+
+travel_mode_2.html——手机端
